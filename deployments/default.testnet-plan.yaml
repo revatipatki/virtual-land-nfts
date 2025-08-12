@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: virtual-land-nfts
+            expected-sender: ST38Q3MKN7FYVPTCVF6HRV5DPT53KKW41BHSVT8X8
+            cost: 6760
+            path: "contracts\\virtual-land-nfts.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
