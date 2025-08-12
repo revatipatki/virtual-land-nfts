@@ -16,5 +16,9 @@ The vision of this project is to **digitally represent land ownership in virtual
 - Implementing **rental and leasing mechanisms** for virtual properties.
 - Integrating with **metaverse platforms** to visually represent land ownership.
 
-## 5. Contract Address
-SP000000000000000000002Q6VF78.virtual-land-nft
+## 5. Contract 
+
+<img width="1084" height="874" alt="image" src="https://github.com/user-attachments/assets/914e870f-b986-4517-b235-5232c414f46d" />
+
+## 6.Contract Address
+ST38Q3MKN7FYVPTCVF6HRV5DPT53KKW41BHSVT8X8.virtual-land-nfts
